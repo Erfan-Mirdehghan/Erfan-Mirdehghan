@@ -1,4 +1,4 @@
-<h1 align="center">سلام، من عرفانم 👋</h1>
+<h1 align="center">با سلام عرض ادب، من عرفانم 👋</h1>
 <h3 align="center">Vibe Coder | اتوماسیون‌ساز</h3>
 
 <p align="center">
