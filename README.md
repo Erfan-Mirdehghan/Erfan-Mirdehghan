@@ -42,16 +42,6 @@
 
 ---
 
-### 😄 یه جوک برنامه‌نویسی
-
-```python
-def why_do_programmers_prefer_dark_mode():
-    return "چون light attracts bugs 🐛"
-
-def how_many_programmers_to_change_a_lightbulb():
-    return "هیچی، این یه هاردور پرابلمه"
-```
-
 ---
 
 <p align="center">
